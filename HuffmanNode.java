@@ -1,5 +1,3 @@
-package data_structures_hw5;
-
 public class HuffmanNode implements Comparable {
 	public String letter;
 	public Double frequency;
