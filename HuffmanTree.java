@@ -1,5 +1,3 @@
-package data_structures_hw5;
-
 import java.util.Arrays;
 
 public class HuffmanTree {
