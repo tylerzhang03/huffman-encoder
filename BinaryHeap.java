@@ -1,5 +1,3 @@
-package data_structures_hw5;
-
 //BinaryHeap class
 //
 //CONSTRUCTION: with optional capacity (that defaults to 100)
